@@ -1,0 +1,14 @@
+body{
+    background-color: #f5edffe0;
+    font-family: "lato";
+}
+.title{
+    text-align: center;
+    font-family:'Lato-bold-700', sans-serif;
+}
+li{
+    line-height: 2.9;
+}
+.img-simon{
+    height:20rem;
+}
